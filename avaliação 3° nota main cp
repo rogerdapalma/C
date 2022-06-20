@@ -1,0 +1,21 @@
+#include <iostream>
+#include <cstdlib>
+
+using namespace std;
+
+#include "arvores.h"
+
+int main() {
+    Arvore *raiz = NULL;
+
+  ;
+    
+
+    exibir(Arvore,0);
+
+ 
+
+    
+    return 1;
+
+}
